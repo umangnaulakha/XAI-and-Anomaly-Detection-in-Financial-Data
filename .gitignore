@@ -1,0 +1,49 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.swp
+*.swo
+*.tmp
+
+# Ignore data files that shouldn’t go to repo (large or sensitive)
+data/processed/
+data/interim/
+*.db
+*.sqlite
+*.h5
+
+# Ignore model outputs
+models/
+*.pkl
+*.joblib
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore Python packaging files
+build/
+dist/
+*.egg-info/
+
+# Ignore OS-specific files
+Thumbs.db
