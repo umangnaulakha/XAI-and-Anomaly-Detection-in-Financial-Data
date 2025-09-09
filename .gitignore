@@ -24,7 +24,6 @@ env/
 *.tmp
 
 # Ignore data files that shouldn’t go to repo (large or sensitive)
-data/processed/
 data/interim/
 *.db
 *.sqlite
