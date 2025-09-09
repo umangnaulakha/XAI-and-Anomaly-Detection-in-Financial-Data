@@ -85,7 +85,7 @@ XAI-and-Anomaly-Detection-in-Financial-Data/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/umangnaulakha/XAI-and-Anomaly-Detection-in-Financial-Data
+   git clone <repository-url>
    cd XAI-and-Anomaly-Detection-in-Financial-Data
    ```
 
@@ -154,8 +154,12 @@ The project provides:
 - **Anomaly Identification**: Detected unusual market patterns and events
 - **Feature Importance**: Understanding which indicators contribute most to anomalies
 - **Interpretable Models**: Clear explanations for each detected anomaly
-- **Risk Assessment**: Insights into potential market risks and opportunities
 
+
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 
 ---
